@@ -1,0 +1,5 @@
+{
+	"TEST":"Hello World!",
+	"WELC_&NAME_&SERVERNAME_&BOTNAME": "Привет, **{0}**. Я бот сервера **{1}**. Меня зовут **{2}**. Могу ли я помочь тебе?",
+	"SECRET": "The secret is `ti chmonya`.",
+}
